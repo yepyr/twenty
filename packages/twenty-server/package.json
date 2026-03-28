@@ -24,7 +24,7 @@
     "@lingui/core": "^5.1.2",
     "@monaco-editor/react": "^4.6.0",
     "@nestjs/cache-manager": "^2.2.1",
-    "@nestjs/devtools-integration": "^0.1.6",
+    "@nestjs/devtools-integration": "^0.2.1",
     "@nestjs/graphql": "patch:@nestjs/graphql@12.1.1#./patches/@nestjs+graphql+12.1.1.patch",
     "@nestjs/schedule": "^3.0.0",
     "@node-saml/passport-saml": "^5.0.0",
